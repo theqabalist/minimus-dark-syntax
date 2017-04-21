@@ -2,10 +2,11 @@
   "name": "minimus-dark-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Truly minimal atom highlighting (light).",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "minimal"
   ],
   "repository": "https://github.com/theqabalist/minimus-dark-syntax",
   "license": "MIT",
